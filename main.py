@@ -2,6 +2,7 @@ import networkx as nx
 import matplotlib.pyplot as plt
 import csv
 
+#Echipa care a lucrat la codul de generare de graph-uri: Deva Dan, Hirceaga Andreea, Pascu Lorena, Racz Christine
 
 # Verificari
 def check(v, m):
