@@ -26,11 +26,17 @@ def check(v, m):
 
     return True
 
+def probability(v,m):           #calcul probabilitate
+    muchii_max = m*(m-1)/2
+    return m/muchii_max
 
 def main():
     # introducere numar varfuri si muchii
     v = int(input("Varfuri: "))
     m = int(input("Muchii: "))
+
+    p = probability(v, m)
+    print(f"probability: {p:.5f}")
 
     if check(v, m):
         # generare graf
