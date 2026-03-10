@@ -9,6 +9,7 @@ Experimental Design - 1st Iteration DONE
 Experimental Design - 2nd Iteration TBD (write script for runner and config)
 Design and Implementation of Classical Centralities - 1st Iteration TBD
 Design and Implementation of correlations between centralities classical vs stochastic- TBD
+Graphing scripts - TBD
 Infection Wave Propagation Model - TBD
 Final refactor - TBD
 Scientific Report Generation - TBD
