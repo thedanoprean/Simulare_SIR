@@ -1,7 +1,14 @@
-Data scouting - DONE (am gasit cele 3 surse)
+Data scouting - DONE
 Data synthetic mirroring - DONE
-Data cleanup - Done
+Data cleanup - DONE
+Design and implementation - 1st Iteration DONE
+Design and implementation - 2nd Iteration DONE
+Experimental Design - 1st Iteration DONE
 
 
-Design and implementation - TBD
+Experimental Design - 2nd Iteration TBD (write script for runner and config)
+Design and Implementation of Classical Centralities - 1st Iteration TBD
+Design and Implementation of correlations between centralities classical vs stochastic- TBD
+Infection Wave Propagation Model - TBD
 Final refactor - TBD
+Scientific Report Generation - TBD
