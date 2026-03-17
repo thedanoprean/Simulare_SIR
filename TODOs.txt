@@ -4,9 +4,10 @@ Data cleanup - DONE
 Design and implementation - 1st Iteration DONE
 Design and implementation - 2nd Iteration DONE
 Experimental Design - 1st Iteration DONE
+Experimental Design - 2nd Iteration (write script for runner and config) DONE
 
 
-Experimental Design - 2nd Iteration TBD (write script for runner and config)
+Experimental Design - 3nd Iteration rewrite lean script for raw file production TBD
 Design and Implementation of Classical Centralities - 1st Iteration TBD
 Design and Implementation of correlations between centralities classical vs stochastic- TBD
 Graphing scripts - TBD
